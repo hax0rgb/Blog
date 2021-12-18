@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/pentesting-iot-biometric/</loc>
-    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+    <loc>/posts/introducing-insecureshop/</loc>
+    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
+    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/pentesting-iot-biometric/</loc>
     <lastmod>2021-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/projects/</loc>

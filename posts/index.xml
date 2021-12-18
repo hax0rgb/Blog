@@ -10,7 +10,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing InsecureShop</title>
+      <link>/posts/introducing-insecureshop/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/introducing-insecureshop/</guid>
+      <description>About InsecureShop: InsecureShop is an intentionally designed vulnerable Android application built in Kotlin.
+The aim of creating this application is to teach developers and security professionals about the vulnerabilities present in modern Android applications. This also serves as a platform to test your Android pentesting skills.
+The InsecureShop project was released as part of the SourceZeroCon 2021 (Slides | Video).
+You can checkout the project here: https://www.insecureshopapp.com
+Research In early 2020, I started my research on Android WebView and how loading an untrusted URL in applications&#39; WebView can lead to the exfiltration of session cookies and local storage files by leveraging symlink attacks and insecure WebView properties.</description>
+    </item>
+    
     <item>
       <title>Pentesting an IOT based Biometric Attendance device</title>
       <link>/posts/pentesting-iot-biometric/</link>
